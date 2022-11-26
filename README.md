@@ -1,5 +1,5 @@
 # VIEW PREVIEW
-
+see png named "emily_landingpage_screenshot" in parent folder
 
 
 # Getting Started with Create React App
