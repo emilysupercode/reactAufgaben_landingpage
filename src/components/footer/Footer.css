@@ -1,0 +1,20 @@
+footer {
+    background-color: rgb(227, 226, 205);
+    padding: 10px;
+}
+
+.footerUlLinks {
+    list-style-type: none;
+    display: flex;
+    gap: 50px;
+    justify-content: flex-end;
+}
+
+.footerUlLinks li a {
+    color: teal;
+    text-decoration: none;
+}
+
+.footerUlLinks li a:hover {
+    text-decoration: underline;
+}

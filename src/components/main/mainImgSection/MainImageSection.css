@@ -1,0 +1,30 @@
+.mainImageSection {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    padding: 50px;
+    gap: 50px;
+}
+
+.mainImageDiv img {
+    width: 100%;
+    aspect-ratio: 1/1;
+    object-fit: cover;
+    object-position: center;
+    overflow: hidden;
+    border-radius: 10px;
+}
+
+.mainImageDiv .priceP,
+.mainImageDiv .infoP {
+    text-align: left;
+    margin: 10px 0;
+    font-family: "Roboto-Light", sans-serif;
+}
+
+.boldBlueP {
+    font-size: 1.4rem;
+    color: rgb(49, 99, 152);
+    font-family: "Roboto-Bold", sans-serif;
+    margin: 10px 0;
+    text-align: left;
+}

@@ -1,0 +1,26 @@
+main {
+    background-color: azure;
+    text-align: center;
+}
+
+.mainSection1 {
+    padding: 50px;
+}
+
+.mainSection2 {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 10px;
+}
+
+.mainMediumP {
+    font-family: "Roboto-Regular", sans-serif;
+    font-size: 1.4rem;
+    color: teal;
+}
+
+.mainH2 {
+    font-size: 2rem;
+    font-family: "Roboto-Bold", sans-serif;
+    margin: 10px;
+}

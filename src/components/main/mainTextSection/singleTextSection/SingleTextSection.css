@@ -1,0 +1,27 @@
+.SingleTextSectionDiv {
+    display: flex;
+    align-items: flex-start;
+    margin: 10px;
+}
+
+.subtitleTextSection {
+    font-family: "Roboto-Bold", sans-serif;
+    font-size: 1.4rem;
+}
+
+.textSectionText {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    text-align: left;
+}
+
+.pTextSection {
+    font-family: "Roboto-Medium", sans-serif;
+    margin: 0 50px 0 0;
+}
+
+.textSectionIcon {
+    width: 20px;
+    margin: 0 20px;
+}

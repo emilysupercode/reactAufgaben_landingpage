@@ -1,0 +1,12 @@
+.ShowOffLargeP {
+    margin: 20px;
+    font-size: 4rem;
+    font-family: "Roboto-Bold", sans-serif;
+    color: azure;
+}
+
+.ShowOffSmallP {
+    margin: 20px;
+    font-size: 1.4rem;
+    font-family: "Roboto-Regular", sans-serif;
+}

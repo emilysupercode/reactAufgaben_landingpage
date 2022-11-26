@@ -1,0 +1,36 @@
+header {
+    background-color: teal;
+    padding: 50px;
+    text-align: center;
+}
+
+.headerMediumP {
+    font-size: 2rem;
+    font-family: "Roboto-Bold", sans-serif;
+    margin-bottom: 10px;
+    color: black;
+}
+
+.headerH1 {
+    font-size: 4rem;
+    color: azure;
+    font-family: "Roboto-Bold", sans-serif;
+    margin: 20px;
+}
+
+hr {
+    width: 300px;
+    margin: 0 auto;
+}
+
+.headerNormalP {
+    font-family: "Roboto-Light", sans-serif;
+    margin: 20px;
+    line-height: 2.4rem;
+    font-size: 1.6rem;
+}
+
+.headerArticle1 {
+    display: flex;
+    justify-content: space-evenly;
+}
